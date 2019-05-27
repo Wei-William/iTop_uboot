@@ -1,0 +1,1 @@
+/home/linux/iTop4412/uboot/board/samsung/smdkc210/lowlevel_init_SCP.S

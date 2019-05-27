@@ -1,0 +1,1 @@
+/home/linux/iTop4412/uboot/cpu/arm_cortexa9/s5pc210/cpu_init_SCP.S
