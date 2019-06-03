@@ -1,3 +1,6 @@
+sdfuse_q/add_padding
+sdfuse_q/add_sign
+sdfuse_q/chksum
 cscope*
 System.map
 api/libapi.a
